@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/booklist/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/booklist/static/js/main.7d8efcee.chunk.js",
+    "main.js.map": "/booklist/static/js/main.7d8efcee.chunk.js.map",
+    "runtime-main.js": "/booklist/static/js/runtime-main.9459ce74.js",
+    "runtime-main.js.map": "/booklist/static/js/runtime-main.9459ce74.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/booklist/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.ca4f95ae.chunk.js": "/booklist/static/js/2.ca4f95ae.chunk.js",
+    "static/js/2.ca4f95ae.chunk.js.map": "/booklist/static/js/2.ca4f95ae.chunk.js.map",
+    "index.html": "/booklist/index.html",
+    "precache-manifest.b18389a82e6da68eea0de3d49ee0f529.js": "/booklist/precache-manifest.b18389a82e6da68eea0de3d49ee0f529.js",
+    "service-worker.js": "/booklist/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/booklist/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/booklist/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.ca4f95ae.chunk.js.LICENSE.txt": "/booklist/static/js/2.ca4f95ae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9459ce74.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.ca4f95ae.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.7d8efcee.chunk.js"
+  ]
+}
